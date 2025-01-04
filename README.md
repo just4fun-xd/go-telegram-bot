@@ -31,7 +31,7 @@ Telegram Bot for API Integration — это проект для трениров
 ### **1. Клонируйте репозиторий**
 
 ```bash
-git clone https://github.com/your-repo/go-telegram-bot.git
+git clone https://github.com/just4fun-xd/go-telegram-bot.git
 cd go-telegram-bot
 ```
 
