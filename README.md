@@ -132,4 +132,7 @@ go-telegram-bot/
 
 ## **Контакты**
 
-Если у вас есть вопросы или предложения, свяжитесь со мной через Telegram или GitHub.
+Если у вас есть вопросы или предложения, свяжитесь со мной:
+
+- **Email:** k.shalygin@yandex.ru
+- **GitHub:** [github.com/just4fun-xd](https://github.com/just4fun-xd)
